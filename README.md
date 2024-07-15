@@ -3,7 +3,7 @@
 
 - 🔭 I’m working on a small play full game **Of_Password_Generator**
 
-- 👯 I’m looking to collaborate on this project <a>"https://github.com/AbhineetGarga/Password-generator.git"</a?
+- 👯 I’m looking to collaborate on this project <a>"https://github.com/AbhineetGarga/Password-generator.git"</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://x.com/gmrboiiye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/gmrboiiye" height="30" width="40" /></a>
